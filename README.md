@@ -7,3 +7,23 @@ Enjoy!
 
 
 <img width="1403" height="617" alt="image" src="https://github.com/user-attachments/assets/bce6caf5-7616-49b5-b6b2-81de5168f4cf" />
+
+
+
+
+
+This tool is provided for educational and research purposes only.
+It is designed to help users identify and manage certain configuration files on their own systems.
+
+    I do not condone piracy or any violation of copyright laws.
+
+    The author of this tool is not responsible for how it is used.
+
+    Use of this tool is at your own risk.
+
+    Any modification of game files, Steam IDs, or configurations may violate the terms of service of game platforms and could result in account suspension or bans.
+
+    By downloading or using this tool, you agree that you are solely responsible for your actions.
+
+If you encounter bugs or issues, please post them in the GitHub Issues section:
+🔗 https://github.com/Swanikins/SpaceWar-Killer
