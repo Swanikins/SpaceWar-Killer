@@ -11,19 +11,19 @@ Enjoy!
 
 
 
+SpaceWar Killer is provided solely for legitimate, educational, and diagnostic purposes.
+This software is intended to help users locate and modify specific configuration files on systems they own.
 
-This tool is provided for educational and research purposes only.
-It is designed to help users identify and manage certain configuration files on their own systems.
+The author does not endorse, encourage, or condone software piracy or any activity that violates copyright law, license agreements, or the terms of service of any platform.
+Use of this tool in ways that contravene applicable laws or platform rules is strictly prohibited.
 
-    I do not condone piracy or any violation of copyright laws.
+By downloading, compiling, or executing this software, you acknowledge and agree that:
 
-    The author of this tool is not responsible for how it is used.
+    You are solely responsible for how you use it.
 
-    Use of this tool is at your own risk.
+    The author and contributors accept no liability for any consequences, including but not limited to data loss, account suspension, or legal action.
 
-    Any modification of game files, Steam IDs, or configurations may violate the terms of service of game platforms and could result in account suspension or bans.
+    You will ensure all use complies with applicable laws and agreements.
 
-    By downloading or using this tool, you agree that you are solely responsible for your actions.
-
-If you encounter bugs or issues, please post them in the GitHub Issues section:
+For bug reports or suggestions, please submit an issue at:
 🔗 https://github.com/Swanikins/SpaceWar-Killer
